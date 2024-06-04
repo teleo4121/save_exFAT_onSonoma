@@ -59,4 +59,4 @@ Macintosh HD	ABCDEF
 
 
 P.S. This script only for temporary using, especially before Apple fix this issue.   
-For Apple, not only this exFAT accept issue, please also give the function of Ipad external monitor back.  
+For Apple, not only this exFAT access issue, please also give the function of Ipad external monitor back.  
